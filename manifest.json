@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": extension,
+  "name": "extension",
   "version": "1.0" ,
   "description": "Note taking assist" ,
   "action": {
