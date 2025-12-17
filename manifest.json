@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": extension,
+  "version": "1.0" ,
+  "description": "Note taking assist" ,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+     "storage"
+  ]
+}
+  
